@@ -1,0 +1,168 @@
+<div class="dg-trust-badges" id="dg-trust-badges-{{ section.id  | replace: '-', '_'}}">
+  {% if section.settings.title != blank %}
+    <{{ section.settings.hn }} class="dg-tb__heading"> {{ section.settings.title }} </{{ section.settings.hn }}>
+  {% endif %}
+  <div class="dg-trust-badges__grid">
+  {%- for block in section.blocks -%}
+    {%- assign height = block.settings.image_height -%}
+    <div class="dg-trust-badges__item">
+      {% if block.settings.image or block.settings.image_url != blank  %}
+      <div class="dg-trust-badges__image">
+      {% if block.settings.image %}
+      <img src="{{ block.settings.image | image_url: height: height  }}" alt="" loading="lazy" class="dg-tb__image" />
+      {% endif %}
+      {% if block.settings.image_url != blank  %}
+      <img src="{{ block.settings.image_url }}" style="max-height:{{ height }}px" alt="" loading="lazy" class="dg-tb__image" />
+      {% endif %}
+      </div>
+      {% endif %}
+      {% if block.settings.html_content != blank %}
+      <div class="dg-trust-badges__html_content">{{ block.settings.html_content }}</div>
+      {% endif %}
+      {% if block.settings.title != blank %}
+      <div class="dg-trust-badges__title">{{ block.settings.title }}</div>
+      {% endif %}
+      {% if block.settings.richtext != blank %}
+      <div class="dg-trust-badges__text">{{ block.settings.richtext }}</div>
+      {% endif %}
+      {% if block.settings.html_content2 != blank %}
+      <div class="dg-trust-badges__html_content">{{ block.settings.html_content2 }}</div>
+      {% endif %}
+    </div>
+  {% endfor %}
+  </div>
+</div>
+
+<style>
+  .dg-trust-badges {
+    text-align:center;
+  }
+  .dg-trust-badges__grid {
+    display:flex;
+    justify-content: center;
+  }
+  .dg-trust-badges__item {
+    padding:1rem;
+    width: 100%;
+  }
+  .dg-trust-badges__item > div {
+    margin-bottom:1rem;
+  }
+  .dg-trust-badges__title {
+    font-weight:bold;
+    font-size:120%;
+    line-height:1;
+  }
+  .dg-trust-badges__item p {
+    margin:0;
+  }
+  .dg-trust-badges__image > img {
+    max-height:auto;
+    width:auto;
+  }
+  @media screen and (min-width: 750px) {
+    .dg-trust-badges__item {
+      padding:2rem;
+    }
+  }
+    @media screen and (max-width: 750px) {
+    .dg-trust-badges__grid {
+      display: grid;
+    }
+  }
+</style>
+
+{% schema %}
+{
+  "name": "Selos de Confiança",
+  "blocks": [
+    {
+      "type": "column",
+      "name": "Coluna",
+      "limit": 4,
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Imagem"
+        },
+        {
+          "type": "text",
+          "id": "image_url",
+          "label": "Url da imagem"
+        },
+        {
+          "type": "text",
+          "id": "image_height",
+          "label": "altura max da imagem",
+    	  "default": "95"
+        },
+        {
+          "type": "html",
+          "id": "html_content",
+          "label": "Codigo HTML ou SVG"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Titulo",
+          "default": "Titulo"
+        },
+        {
+          "type": "richtext",
+          "id": "richtext",
+          "label": "Texto"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Selos de Confiança",
+      "category": "Guilherme dev",
+      "blocks": [
+        {
+          "type": "column",
+          "settings": {
+            "image_url": "",
+            "image_height": "95",
+            "html_content": "",
+            "title": "Entregamos em todo Brasil",
+            "richtext": "<p>Todos nossos pedidos acompanham código de rastreio.<\/p>"
+          }
+        },
+        {
+          "type": "column",
+          "settings": {
+            "image_url": "",
+            "image_height": "95",
+            "html_content": "",
+            "title": "Satisfação ou Reembolso",
+            "richtext": "<p>Caso haja algo, devolvemos seu dinheiro com velocidade.<\/p>"
+          }
+        },
+        {
+          "type": "column",
+          "settings": {
+            "image_url": "",
+            "image_height": "95",
+            "html_content": "",
+            "title": "Suporte Especializado",
+            "richtext": "<p>Precisa de ajuda? Nós contamos com a melhor equipe para te atender.<\/p>"
+          }
+        },
+        {
+          "type": "column",
+          "settings": {
+            "image_url": "",
+            "image_height": "95",
+            "html_content": "",
+            "title": "Pagamento Seguro",
+            "richtext": "<p>Nós usamos a criptografia SSL para pagamentos em toda a segurança.<\/strong><\/p>"
+          }
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
