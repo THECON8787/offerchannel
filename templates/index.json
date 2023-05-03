@@ -190,7 +190,7 @@
             "image_height": "95",
             "html_content": "",
             "title": "Entregamos para todo Brasil",
-            "richtext": "<p><a href=\"\/pages\/canal-de-duvidas\" title=\"Canal de Dúvidas\">Todos nossos pedidos acompanham código de rastreio.<\/a><\/p>"
+            "richtext": "<h6><a href=\"\/pages\/canal-de-duvidas\" title=\"Canal de Dúvidas\">Todos nossos pedidos acompanham código de rastreio.<\/a>{{ shop.brand.slogan }}<\/h6>"
           }
         },
         "template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-1": {
