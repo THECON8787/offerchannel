@@ -220,7 +220,7 @@
             "image_height": "95",
             "html_content": "",
             "title": "Quem somos",
-            "richtext": "<p><a href=\"\/pages\/quem-somos\" title=\"Quem somos,\">Quem Somos <\/a><\/p><p><a href=\"\/pages\/politicas-de-privacidade\" title=\"Políticas de Privacidade\">Nossa Política <\/a><\/p>"
+            "richtext": "<h6><a href=\"\/pages\/politicas-de-privacidade\" title=\"Políticas de Privacidade\"> Política de privacidade<\/a><\/h6>"
           }
         }
       },
