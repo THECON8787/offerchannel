@@ -8,15 +8,25 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Cupom de desconto Especial dia  das Mamães",
+            "text": "Cupom especial dia  das Mamães",
             "text_alignment": "center",
             "color_scheme": "background-1",
+            "link": ""
+          }
+        },
+        "e54c72f6-ad05-4372-8bc8-5310d21caacd": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "text_alignment": "center",
+            "color_scheme": "accent-1",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "e54c72f6-ad05-4372-8bc8-5310d21caacd"
       ],
       "settings": {
       }
