@@ -219,8 +219,8 @@
             "image_url": "",
             "image_height": "95",
             "html_content": "",
-            "title": "Quem somos",
-            "richtext": "<h6><a href=\"\/pages\/politicas-de-privacidade\" title=\"Políticas de Privacidade\"> Política de privacidade<\/a><\/h6>"
+            "title": "Privacidade",
+            "richtext": "<h6><a href=\"\/pages\/politicas-de-privacidade\" title=\"Políticas de Privacidade\"> Política de privacidade<\/a><\/h6><h6><\/h6>"
           }
         }
       },
