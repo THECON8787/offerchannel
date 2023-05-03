@@ -1,1 +1,246 @@
-{"sections":{"rich_text":{"type":"rich-text","settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":28,"padding_bottom":12}},"e30942bf-7262-4808-947f-3f73b828971d":{"type":"slideshow","blocks":{"template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/leos-essenciais-de-levantamento-de-rosto-que-removem-o-queixo-duplo-em-forma-de-v_3.png","heading":"Mente&corpo","heading_size":"h2","subheading":"Nós selecionamos, cuidadosamente,  produtos que tratam não só o físico, como também o mental","button_label":"Conheça -os","link":"shopify:\/\/collections\/universo-fitness","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Perna-muscular-trainer-clipe-de-stovepipe-fino-perna-fitness-gym-coxa-mestre-bra-o-peito-cintura_jpg_Q90_jpg.webp","heading":"Funcionais","heading_size":"h2","subheading":"Nossos Produtos funcionais têm como maior objetivo satisfazer necessidades básicas e esporádicas. Proporcionando bem estar e  segurança","button_label":"Conheça - os","link":"shopify:\/\/collections\/saude-e-beleza","button_style_secondary":true,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"d68b3fc1-997e-470f-baf1-b8cf7d24508a":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/S70769f8e4f774db392da38e7297b2124u.jpg","heading":"Acessórios inteligentes","heading_size":"h2","subheading":"Nós selecionamos, cuidadosamente,  produtos que auxiliam nas tarefas do dia a dia com mais agilidade","button_label":"Conheça -os","link":"shopify:\/\/collections\/universo-fitness","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"inverse","text_alignment_mobile":"center"}}},"block_order":["template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-1","template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-0","d68b3fc1-997e-470f-baf1-b8cf7d24508a"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"counter","auto_rotate":false,"change_slides_speed":5,"image_behavior":"ambient","show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"67e96e01-86f7-48de-b3b3-edd5f5003b65":{"type":"slideshow","settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"counter","auto_rotate":false,"change_slides_speed":5,"image_behavior":"none","show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"featured-collection":{"type":"featured-collection","settings":{"title":"Queridinhos da América","heading_size":"h2","description":"","show_description":true,"description_style":"uppercase","collection":"produtos-queridinhos-da-america","products_to_show":25,"columns_desktop":5,"full_width":false,"show_view_all":true,"view_all_style":"link","enable_desktop_slider":true,"color_scheme":"background-1","image_ratio":"square","show_secondary_image":true,"show_vendor":false,"show_rating":true,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":8,"padding_bottom":8}},"faae5cb9-9fc7-4559-9bf6-0d235a9305d5":{"type":"featured-collection","settings":{"title":"Essenciais Para a Saude","heading_size":"h2","description":"","show_description":false,"description_style":"subtitle","collection":"essenciais-para-saude","products_to_show":25,"columns_desktop":5,"full_width":false,"show_view_all":true,"view_all_style":"outline","enable_desktop_slider":true,"color_scheme":"background-1","image_ratio":"portrait","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":0}},"068dca21-e731-40df-a612-05025c54810a":{"type":"image-banner","blocks":{"template--18829555237166__068dca21-e731-40df-a612-05025c54810a-1682823598c8f11cea-1":{"type":"text","settings":{"text":"um mundo novo de possibilidades só pra você !!!","text_style":"caption-with-letter-spacing"}}},"block_order":["template--18829555237166__068dca21-e731-40df-a612-05025c54810a-1682823598c8f11cea-1"],"settings":{"image":"shopify:\/\/shop_images\/lens-ball-with-fall-trees-and-waterfall.jpg","image_overlay_opacity":40,"image_height":"small","desktop_content_position":"bottom-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"left","stack_images_on_mobile":true,"show_text_below":false}},"bdc269cb-428e-4edf-864c-a2e2f5a3631d":{"type":"SELOS","blocks":{"template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-0":{"type":"column","settings":{"image_url":"","image_height":"95","html_content":"","title":"Entregamos para todo Brasil","richtext":"<p><a href=\"\/pages\/canal-de-duvidas\" title=\"Canal de Dúvidas\">Todos nossos pedidos acompanham código de rastreio.<\/a><\/p>"}},"template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-1":{"type":"column","settings":{"image_url":"","image_height":"95","html_content":"","title":"Satisfação ou Reembolso","richtext":"<p><a href=\"\/pages\/politica-de-reembolso\" title=\"Política de reembolso\">Caso haja imprevisto, você receberá estorno em tempo hábil<\/a><\/p>"}},"template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-2":{"type":"column","settings":{"image_url":"","image_height":"50","html_content":"","title":"Suporte Especializado","richtext":"<p><a href=\"\/pages\/canal-de-duvidas\" title=\"Canal de Dúvidas\">Precisa de ajuda? Nós contamos com a melhor equipe para te atender.<\/a><\/p>"}},"template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-3":{"type":"column","settings":{"image_url":"","image_height":"95","html_content":"","title":"Quem somos","richtext":"<p><a href=\"\/pages\/quem-somos\" title=\"Quem somos,\">Quem Somos <\/a><\/p><p><a href=\"\/pages\/politicas-de-privacidade\" title=\"Políticas de Privacidade\">Nossa Política <\/a><\/p>"}}},"block_order":["template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-0","template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-1","template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-2","template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-3"],"settings":{}}},"order":["rich_text","e30942bf-7262-4808-947f-3f73b828971d","67e96e01-86f7-48de-b3b3-edd5f5003b65","featured-collection","faae5cb9-9fc7-4559-9bf6-0d235a9305d5","068dca21-e731-40df-a612-05025c54810a","bdc269cb-428e-4edf-864c-a2e2f5a3631d"]}
+{
+  "sections": {
+    "rich_text": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 12
+      }
+    },
+    "e30942bf-7262-4808-947f-3f73b828971d": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leos-essenciais-de-levantamento-de-rosto-que-removem-o-queixo-duplo-em-forma-de-v_3.png",
+            "heading": "Mente&corpo",
+            "heading_size": "h2",
+            "subheading": "Nós selecionamos, cuidadosamente,  produtos que tratam não só o físico, como também o mental",
+            "button_label": "Conheça -os",
+            "link": "shopify:\/\/collections\/universo-fitness",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Perna-muscular-trainer-clipe-de-stovepipe-fino-perna-fitness-gym-coxa-mestre-bra-o-peito-cintura_jpg_Q90_jpg.webp",
+            "heading": "Funcionais",
+            "heading_size": "h2",
+            "subheading": "Nossos Produtos funcionais têm como maior objetivo satisfazer necessidades básicas e esporádicas. Proporcionando bem estar e  segurança",
+            "button_label": "Conheça - os",
+            "link": "shopify:\/\/collections\/saude-e-beleza",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "d68b3fc1-997e-470f-baf1-b8cf7d24508a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/S70769f8e4f774db392da38e7297b2124u.jpg",
+            "heading": "Acessórios inteligentes",
+            "heading_size": "h2",
+            "subheading": "Nós selecionamos, cuidadosamente,  produtos que auxiliam nas tarefas do dia a dia com mais agilidade",
+            "button_label": "Conheça -os",
+            "link": "shopify:\/\/collections\/universo-fitness",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-1",
+        "template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-0",
+        "d68b3fc1-997e-470f-baf1-b8cf7d24508a"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "67e96e01-86f7-48de-b3b3-edd5f5003b65": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Queridinhos da América",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": true,
+        "description_style": "uppercase",
+        "collection": "produtos-queridinhos-da-america",
+        "products_to_show": 25,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "faae5cb9-9fc7-4559-9bf6-0d235a9305d5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Essenciais Para a Saude",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "essenciais-para-saude",
+        "products_to_show": 25,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "068dca21-e731-40df-a612-05025c54810a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18829555237166__068dca21-e731-40df-a612-05025c54810a-1682823598c8f11cea-1": {
+          "type": "text",
+          "settings": {
+            "text": "um mundo novo de possibilidades só pra você !!!",
+            "text_style": "caption-with-letter-spacing"
+          }
+        }
+      },
+      "block_order": [
+        "template--18829555237166__068dca21-e731-40df-a612-05025c54810a-1682823598c8f11cea-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/lens-ball-with-fall-trees-and-waterfall.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "bdc269cb-428e-4edf-864c-a2e2f5a3631d": {
+      "type": "SELOS",
+      "blocks": {
+        "template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-0": {
+          "type": "column",
+          "settings": {
+            "image_url": "",
+            "image_height": "95",
+            "html_content": "",
+            "title": "Entregamos para todo Brasil",
+            "richtext": "<p><a href=\"\/pages\/canal-de-duvidas\" title=\"Canal de Dúvidas\">Todos nossos pedidos acompanham código de rastreio.<\/a><\/p>"
+          }
+        },
+        "template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-1": {
+          "type": "column",
+          "settings": {
+            "image_url": "",
+            "image_height": "95",
+            "html_content": "",
+            "title": "Satisfação ou Reembolso",
+            "richtext": "<p><a href=\"\/pages\/politica-de-reembolso\" title=\"Política de reembolso\">Caso haja imprevisto, você receberá estorno em tempo hábil<\/a><\/p>"
+          }
+        },
+        "template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-2": {
+          "type": "column",
+          "settings": {
+            "image_url": "",
+            "image_height": "50",
+            "html_content": "",
+            "title": "Suporte Especializado",
+            "richtext": "<p><a href=\"\/pages\/canal-de-duvidas\" title=\"Canal de Dúvidas\">Precisa de ajuda? Nós contamos com a melhor equipe para te atender.<\/a><\/p>"
+          }
+        },
+        "template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-3": {
+          "type": "column",
+          "settings": {
+            "image_url": "",
+            "image_height": "95",
+            "html_content": "",
+            "title": "Quem somos",
+            "richtext": "<p><a href=\"\/pages\/quem-somos\" title=\"Quem somos,\">Quem Somos <\/a><\/p><p><a href=\"\/pages\/politicas-de-privacidade\" title=\"Políticas de Privacidade\">Nossa Política <\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-0",
+        "template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-1",
+        "template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-2",
+        "template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-3"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "rich_text",
+    "e30942bf-7262-4808-947f-3f73b828971d",
+    "67e96e01-86f7-48de-b3b3-edd5f5003b65",
+    "featured-collection",
+    "faae5cb9-9fc7-4559-9bf6-0d235a9305d5",
+    "068dca21-e731-40df-a612-05025c54810a",
+    "bdc269cb-428e-4edf-864c-a2e2f5a3631d"
+  ]
+}
