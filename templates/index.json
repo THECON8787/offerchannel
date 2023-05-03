@@ -209,8 +209,8 @@
             "image_url": "",
             "image_height": "50",
             "html_content": "",
-            "title": "Suporte Especializado",
-            "richtext": "<p><a href=\"\/pages\/canal-de-duvidas\" title=\"Canal de Dúvidas\">Precisa de ajuda? Nós contamos com a melhor equipe para te atender.<\/a><\/p>"
+            "title": "Canal de Atendimento",
+            "richtext": "<h6><a href=\"\/pages\/canal-de-duvidas\" title=\"Canal de Dúvidas\">Precisa de ajuda? Temos a melhor equipe para te atender.<\/a><\/h6>"
           }
         },
         "template--18829555237166__bdc269cb-428e-4edf-864c-a2e2f5a3631d-16828218615d123d9a-3": {
