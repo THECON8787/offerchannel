@@ -20,7 +20,7 @@
             "image": "shopify:\/\/shop_images\/leos-essenciais-de-levantamento-de-rosto-que-removem-o-queixo-duplo-em-forma-de-v_3.png",
             "heading": "Mente&corpo",
             "heading_size": "h2",
-            "subheading": "Nós selecionamos, cuidadosamente,  produtos que tratam não só o físico, como também o mental",
+            "subheading": "",
             "button_label": "",
             "link": "shopify:\/\/collections\/universo-fitness",
             "button_style_secondary": false,
@@ -82,7 +82,7 @@
         "change_slides_speed": 7,
         "image_behavior": "ambient",
         "show_text_below": false,
-        "accessibility_info": "Produtos funcionais para o dia a dia e para relaxar o corpo e também  a mente"
+        "accessibility_info": ""
       }
     },
     "67e96e01-86f7-48de-b3b3-edd5f5003b65": {
