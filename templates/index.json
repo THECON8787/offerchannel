@@ -85,13 +85,32 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "b9953bf5-2c8c-4280-acbf-3649ed66f48b": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/H1fcc816bde504eb8938c7b2c0e1ea934W_fde34325-850b-48e3-9618-f44f9b598a48.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/produtos-queridinhos-da-america",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-1",
         "template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-0",
         "d68b3fc1-997e-470f-baf1-b8cf7d24508a",
-        "127095cd-a1a7-4d33-b712-b256d787b1be"
+        "127095cd-a1a7-4d33-b712-b256d787b1be",
+        "b9953bf5-2c8c-4280-acbf-3649ed66f48b"
       ],
       "settings": {
         "layout": "full_bleed",
