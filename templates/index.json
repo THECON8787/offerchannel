@@ -14,6 +14,24 @@
     "e30942bf-7262-4808-947f-3f73b828971d": {
       "type": "slideshow",
       "blocks": {
+        "b9953bf5-2c8c-4280-acbf-3649ed66f48b": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/H05dc47397f244351b777145b48520a9b8_42771d90-26ce-46cb-b0ab-c120bf40c2fa.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/produtos-queridinhos-da-america",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 10,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-1": {
           "type": "slide",
           "settings": {
@@ -68,31 +86,13 @@
             "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
-        },
-        "b9953bf5-2c8c-4280-acbf-3649ed66f48b": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/H05dc47397f244351b777145b48520a9b8_42771d90-26ce-46cb-b0ab-c120bf40c2fa.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/collections\/produtos-queridinhos-da-america",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "right",
-            "image_overlay_opacity": 10,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
+        "b9953bf5-2c8c-4280-acbf-3649ed66f48b",
         "template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-1",
         "template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-0",
-        "d68b3fc1-997e-470f-baf1-b8cf7d24508a",
-        "b9953bf5-2c8c-4280-acbf-3649ed66f48b"
+        "d68b3fc1-997e-470f-baf1-b8cf7d24508a"
       ],
       "settings": {
         "layout": "full_bleed",
