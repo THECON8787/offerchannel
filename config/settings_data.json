@@ -148,15 +148,7 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "4214657528271059384": {
-        "type": "shopify:\/\/apps\/a2reviews-product-reviews\/blocks\/app-embed\/6a88647f-451d-4142-88de-9df2dab10243",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Default": {
