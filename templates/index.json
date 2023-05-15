@@ -187,16 +187,16 @@
         "template--18829555237166__068dca21-e731-40df-a612-05025c54810a-1682823598c8f11cea-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/gift-package-in-hand.jpg",
-        "image_overlay_opacity": 20,
-        "image_height": "small",
-        "desktop_content_position": "bottom-center",
+        "image": "shopify:\/\/shop_images\/Green_Blue_Professional_Modern_Simple_Headphone_Promotion_Facebook_Ad.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "top-right",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "accent-1",
-        "image_behavior": "ambient",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": false
       }
     },
