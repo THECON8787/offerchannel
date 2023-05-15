@@ -178,13 +178,21 @@
         "template--18829555237166__068dca21-e731-40df-a612-05025c54810a-1682823598c8f11cea-1": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "*",
             "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "e0e8ab83-40ae-4690-b494-d864036aa323": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
           }
         }
       },
       "block_order": [
-        "template--18829555237166__068dca21-e731-40df-a612-05025c54810a-1682823598c8f11cea-1"
+        "template--18829555237166__068dca21-e731-40df-a612-05025c54810a-1682823598c8f11cea-1",
+        "e0e8ab83-40ae-4690-b494-d864036aa323"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Green_Blue_Professional_Modern_Simple_Headphone_Promotion_Facebook_Ad.png",
