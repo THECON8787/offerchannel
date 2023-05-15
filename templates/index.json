@@ -196,7 +196,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Green_Blue_Professional_Modern_Simple_Headphone_Promotion_Facebook_Ad_1.jpg",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 10,
         "image_height": "adapt",
         "desktop_content_position": "top-right",
         "show_text_box": false,
