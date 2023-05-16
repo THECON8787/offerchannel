@@ -141,8 +141,8 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 8,
-        "padding_bottom": 8
+        "padding_top": 4,
+        "padding_bottom": 4
       }
     },
     "faae5cb9-9fc7-4559-9bf6-0d235a9305d5": {
@@ -178,7 +178,7 @@
         "template--18829555237166__068dca21-e731-40df-a612-05025c54810a-1682823598c8f11cea-1": {
           "type": "text",
           "settings": {
-            "text": "*",
+            "text": "",
             "text_style": "caption-with-letter-spacing"
           }
         },
