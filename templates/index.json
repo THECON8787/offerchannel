@@ -86,13 +86,32 @@
             "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
+        },
+        "f4d8e558-aa0c-4f1a-b28a-8f01487cc040": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Green_Blue_Professional_Modern_Simple_Headphone_Promotion_Facebook_Ad_1.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/products\/electric-neck-massager-pulse-back-6-modes-power-control-far-infrared-pain-relief-tool-health-care-relaxation",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "right"
+          }
         }
       },
       "block_order": [
         "b9953bf5-2c8c-4280-acbf-3649ed66f48b",
         "template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-1",
         "template--18802710708526__e30942bf-7262-4808-947f-3f73b828971d-16818510549c22e1f2-0",
-        "d68b3fc1-997e-470f-baf1-b8cf7d24508a"
+        "d68b3fc1-997e-470f-baf1-b8cf7d24508a",
+        "f4d8e558-aa0c-4f1a-b28a-8f01487cc040"
       ],
       "settings": {
         "layout": "full_bleed",
