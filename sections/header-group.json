@@ -18,7 +18,16 @@
         "e54c72f6-ad05-4372-8bc8-5310d21caacd": {
           "type": "announcement",
           "settings": {
-            "text": "CUPOM ESPECIAL DIA DAS MAMÃES!",
+            "text": "CUPOM ESPECIAL PARA PRIMEIRA COMPRA NA NOSSA LOJA !!!!!!!",
+            "text_alignment": "center",
+            "color_scheme": "accent-1",
+            "link": ""
+          }
+        },
+        "cbc52767-3088-4be4-a5f4-f9251abbcfbc": {
+          "type": "announcement",
+          "settings": {
+            "text": "",
             "text_alignment": "center",
             "color_scheme": "accent-1",
             "link": ""
@@ -27,7 +36,8 @@
       },
       "block_order": [
         "announcement-bar-0",
-        "e54c72f6-ad05-4372-8bc8-5310d21caacd"
+        "e54c72f6-ad05-4372-8bc8-5310d21caacd",
+        "cbc52767-3088-4be4-a5f4-f9251abbcfbc"
       ],
       "settings": {
       }
