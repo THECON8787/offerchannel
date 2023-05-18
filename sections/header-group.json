@@ -17,7 +17,6 @@
         },
         "e54c72f6-ad05-4372-8bc8-5310d21caacd": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "CUPOM ESPECIAL DIA DAS MAMÃES!",
             "text_alignment": "center",
