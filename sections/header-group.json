@@ -51,7 +51,7 @@
         "sticky_header_type": "reduce-logo-size",
         "show_line_separator": false,
         "color_scheme": "background-1",
-        "enable_country_selector": true,
+        "enable_country_selector": false,
         "enable_language_selector": true,
         "mobile_logo_position": "left",
         "margin_bottom": 0,
