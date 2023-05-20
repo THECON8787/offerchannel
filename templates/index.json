@@ -215,9 +215,9 @@
         "e0e8ab83-40ae-4690-b494-d864036aa323"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/small-business-open-sign.jpg",
+        "image": "shopify:\/\/shop_images\/retail-shopping-package.jpg",
         "image_overlay_opacity": 10,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "top-right",
         "show_text_box": false,
         "desktop_content_alignment": "center",
