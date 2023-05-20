@@ -172,13 +172,13 @@
         "heading_size": "h2",
         "description": "",
         "show_description": false,
-        "description_style": "body",
+        "description_style": "subtitle",
         "collection": "essenciais-para-saude",
         "products_to_show": 25,
         "columns_desktop": 5,
         "full_width": false,
         "show_view_all": false,
-        "view_all_style": "solid",
+        "view_all_style": "outline",
         "enable_desktop_slider": true,
         "color_scheme": "inverse",
         "image_ratio": "square",
@@ -189,7 +189,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 16,
-        "padding_bottom": 40
+        "padding_bottom": 12
       }
     },
     "068dca21-e731-40df-a612-05025c54810a": {
