@@ -181,42 +181,6 @@
         "padding_bottom": 12
       }
     },
-    "068dca21-e731-40df-a612-05025c54810a": {
-      "type": "image-banner",
-      "blocks": {
-        "e0e8ab83-40ae-4690-b494-d864036aa323": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "0d2b60e0-0b01-45d3-b771-a7bf5e287009": {
-          "type": "text",
-          "settings": {
-            "text": "<a href=\"\/pages\/quem-somos\" title=\"Quem somos,\">Quem somos <\/a>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "e0e8ab83-40ae-4690-b494-d864036aa323",
-        "0d2b60e0-0b01-45d3-b771-a7bf5e287009"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/retail-shopping-package.jpg",
-        "image_overlay_opacity": 50,
-        "image_height": "small",
-        "desktop_content_position": "top-right",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "bdc269cb-428e-4edf-864c-a2e2f5a3631d": {
       "type": "SELOS",
       "disabled": true,
@@ -277,7 +241,7 @@
         "template--18972062875950__ccb67f51-7647-4ec0-8f4a-36142bee3347-16848188984b214524-0": {
           "type": "heading",
           "settings": {
-            "heading": "Conheça nossas políticas",
+            "heading": "",
             "heading_size": "h1"
           }
         },
@@ -290,14 +254,21 @@
         "6050ea83-a27b-40f3-bf4b-999302af8056": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"\/pages\/quem-somos\" title=\"Quem somos,\">Quem somos <\/a><\/p>"
+            "text": "<p><a href=\"\/pages\/politica-de-reembolso\" title=\"Política de reembolso\">Política de Reembolso <\/a><\/p>"
+          }
+        },
+        "23e9e3dc-23b6-4323-855d-538b33c0a9a5": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/pages\/politicas-de-privacidade\" title=\"Políticas de Privacidade\">Política de Privacidade e Segurança de Dados <\/a><\/p>"
           }
         }
       },
       "block_order": [
         "template--18972062875950__ccb67f51-7647-4ec0-8f4a-36142bee3347-16848188984b214524-0",
         "template--18972062875950__ccb67f51-7647-4ec0-8f4a-36142bee3347-16848188984b214524-1",
-        "6050ea83-a27b-40f3-bf4b-999302af8056"
+        "6050ea83-a27b-40f3-bf4b-999302af8056",
+        "23e9e3dc-23b6-4323-855d-538b33c0a9a5"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -314,7 +285,6 @@
     "67e96e01-86f7-48de-b3b3-edd5f5003b65",
     "featured-collection",
     "faae5cb9-9fc7-4559-9bf6-0d235a9305d5",
-    "068dca21-e731-40df-a612-05025c54810a",
     "bdc269cb-428e-4edf-864c-a2e2f5a3631d",
     "ccb67f51-7647-4ec0-8f4a-36142bee3347"
   ]
