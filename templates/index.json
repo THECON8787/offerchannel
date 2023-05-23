@@ -286,11 +286,18 @@
           "settings": {
             "text": "<p><a href=\"\/pages\/quem-somos\" title=\"Quem somos,\">Quem somos <\/a><\/p>"
           }
+        },
+        "6050ea83-a27b-40f3-bf4b-999302af8056": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/pages\/quem-somos\" title=\"Quem somos,\">Quem somos <\/a><\/p>"
+          }
         }
       },
       "block_order": [
         "template--18972062875950__ccb67f51-7647-4ec0-8f4a-36142bee3347-16848188984b214524-0",
-        "template--18972062875950__ccb67f51-7647-4ec0-8f4a-36142bee3347-16848188984b214524-1"
+        "template--18972062875950__ccb67f51-7647-4ec0-8f4a-36142bee3347-16848188984b214524-1",
+        "6050ea83-a27b-40f3-bf4b-999302af8056"
       ],
       "settings": {
         "desktop_content_position": "center",
