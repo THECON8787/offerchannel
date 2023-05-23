@@ -270,6 +270,36 @@
       ],
       "settings": {
       }
+    },
+    "ccb67f51-7647-4ec0-8f4a-36142bee3347": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18972062875950__ccb67f51-7647-4ec0-8f4a-36142bee3347-16848188984b214524-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Conheça nossas políticas",
+            "heading_size": "h1"
+          }
+        },
+        "template--18972062875950__ccb67f51-7647-4ec0-8f4a-36142bee3347-16848188984b214524-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/pages\/quem-somos\" title=\"Quem somos,\">Quem somos <\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18972062875950__ccb67f51-7647-4ec0-8f4a-36142bee3347-16848188984b214524-0",
+        "template--18972062875950__ccb67f51-7647-4ec0-8f4a-36142bee3347-16848188984b214524-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -278,6 +308,7 @@
     "featured-collection",
     "faae5cb9-9fc7-4559-9bf6-0d235a9305d5",
     "068dca21-e731-40df-a612-05025c54810a",
-    "bdc269cb-428e-4edf-864c-a2e2f5a3631d"
+    "bdc269cb-428e-4edf-864c-a2e2f5a3631d",
+    "ccb67f51-7647-4ec0-8f4a-36142bee3347"
   ]
 }
