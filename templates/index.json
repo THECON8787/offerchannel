@@ -169,7 +169,7 @@
         "show_view_all": false,
         "view_all_style": "link",
         "enable_desktop_slider": true,
-        "color_scheme": "inverse",
+        "color_scheme": "accent-2",
         "image_ratio": "square",
         "show_secondary_image": true,
         "show_vendor": false,
